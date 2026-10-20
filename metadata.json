@@ -1,0 +1,6 @@
+{
+  "name": "HỖ TRỢ VẼ HÌNH - PHẠM HẬU",
+  "description": "Hệ thống Trí tuệ Nhân tạo & Dựng hình Không gian 3D chuyên sâu cho Hình học THPT (SGK Kết nối tri thức với cuộc sống). Tự động vẽ hình theo yêu cầu bài toán, tính toán điểm cắt, thiết diện và hình chiếu vuông góc chính xác tuyệt đối.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
